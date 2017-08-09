@@ -46,7 +46,7 @@ I also include the answers below.
 * Path ```/x/y/z``` has many ```*.yml``` files. They are under version control. We commit changes within ```/x/y/z/*.yml``` and push to bitbucket, e.g.
 * In the cloud, we manually pull down those ```*.yml```.
 * drush config-import --source='/x/y/z', to import all the configurations.
-* We can certainly write some scripts to automate the process. For reading for myself: https://chromatichq.com/blog/drupal-8-deployments-jenkins-github-slack
+* We can certainly write some scripts to automate the process. Reading for myself: https://chromatichq.com/blog/drupal-8-deployments-jenkins-github-slack
 
 
 ## For question 2
