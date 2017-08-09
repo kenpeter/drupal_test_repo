@@ -48,6 +48,10 @@ I also include the answers below.
 * drush config-import --source='/x/y/z', to import all the configurations.
 * We can certainly write some scripts to automate the process. For reading for myself: https://chromatichq.com/blog/drupal-8-deployments-jenkins-github-slack
 
+
+## For question 2
+
+
 # Ref
 * https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
 * https://drushcommands.com/drush-8x/config/config-import/
