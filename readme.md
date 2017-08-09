@@ -14,6 +14,11 @@ Create two 'Selected Events' blocks
 * One of the most recent 3 events
 * One of three author selectable events
 
-# Key
+# Keys to meet
 * Where this will be created
 * How this will be pushed to the cloud environment
+
+
+# Approach
+I setup an drupal 8 instance to test it
+* Follow this tutorial: https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
