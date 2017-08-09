@@ -20,7 +20,7 @@ Create two 'Selected Events' blocks
 
 
 # Approach
-I setup a drupal 8 instance to test it
+I setup a drupal 8 instance to test it. It is best for you to login into the site and see the setting.
 
 * Demo site: http://drupaltest.shopshop.space
 * Login: http://drupaltest.shopshop.space/user
