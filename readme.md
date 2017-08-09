@@ -27,4 +27,16 @@ I setup a drupal 8 instance to test it
 * username: admin
 * password: admin
 
-* Follow this tutorial: https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
+
+#Answers to questions
+
+## How this will be pushed to the cloud environment
+* ```drush config-export --destination='/x/y/z'```, this will export all the configurations (fields, views, blocks, core, etc) to path ```/x/y/z```
+* Path ```/x/y/z``` has many ```*.yml``` files. They are under version control. We commit changes within ```/x/y/z/*.yml``` and push to bitbucket, e.g.
+* In the cloud, we manually pull down those ```*.yml```.
+* drush config-import --source='/x/y/z', to import all the configurations.
+* We can certainly write some scripts to automate the process.
+
+# Ref
+* https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
+* https://drushcommands.com/drush-8x/config/config-import/
