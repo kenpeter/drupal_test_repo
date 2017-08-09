@@ -20,5 +20,11 @@ Create two 'Selected Events' blocks
 
 
 # Approach
-I setup an drupal 8 instance to test it
+I setup a drupal 8 instance to test it
+
+* Demo site: http://drupaltest.shopshop.space
+* Login: http://drupaltest.shopshop.space/user
+* username: admin
+* password: admin
+
 * Follow this tutorial: https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
