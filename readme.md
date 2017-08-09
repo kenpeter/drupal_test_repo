@@ -21,6 +21,7 @@ Create two 'Selected Events' blocks
 
 # Approach
 I setup a drupal 8 instance to test it. It is best for you to login into the site and see the setting.
+I also include the answers below.
 
 * Demo site: http://drupaltest.shopshop.space
 * Login: http://drupaltest.shopshop.space/user
@@ -29,6 +30,9 @@ I setup a drupal 8 instance to test it. It is best for you to login into the sit
 
 
 # Answers to questions
+
+## For question 1
+![alt img](https://github.com/kenpeter/drupal_test_repo/raw/master/misc/event_field.png)
 
 ## How this will be pushed to the cloud environment
 * ```drush config-export --destination='/x/y/z'```, this will export all the configurations (fields, views, blocks, core, etc) to path ```/x/y/z```
