@@ -53,6 +53,7 @@ I also include the answers below.
 I create 1 view for author_event, 1 view for recent_event and 1 page in view for the home page.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/views.png)
 
+This is the view block to select 3 events from a particular author.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/author_event.png)
 
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/homepage.png)
