@@ -35,7 +35,7 @@ I setup a drupal 8 instance to test it. It is best for you to login into the sit
 * Path ```/x/y/z``` has many ```*.yml``` files. They are under version control. We commit changes within ```/x/y/z/*.yml``` and push to bitbucket, e.g.
 * In the cloud, we manually pull down those ```*.yml```.
 * drush config-import --source='/x/y/z', to import all the configurations.
-* We can certainly write some scripts to automate the process.
+* We can certainly write some scripts to automate the process. For reading for myself: https://chromatichq.com/blog/drupal-8-deployments-jenkins-github-slack
 
 # Ref
 * https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
