@@ -56,13 +56,18 @@ I create 1 view for author_event, 1 view for recent_event and 1 page in view for
 This is the view block to select 3 events from a particular author.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/author_event.png)
 
+This is an empty page to display at home. It allows me to assign author_event block and recent_event block.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/homepage.png)
 
+So author_event block and recent_event block only display at home page.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/home_page_block.png)
 
+Most recent 3 events.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/recent_event.png)
-
 
 # Ref
 * https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
 * https://drushcommands.com/drush-8x/config/config-import/
+
+# Thank you
+@Tim for helping me with this test.
