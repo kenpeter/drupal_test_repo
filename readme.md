@@ -53,6 +53,15 @@ I also include the answers below.
 I create 1 view for author_event, 1 view for recent_event and 1 page in view for the home page.
 ![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/views.png)
 
+![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/author_event.png)
+
+![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/homepage.png)
+
+![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/home_page_block.png)
+
+![alt img](https://github.com/kenpeter/drupal_test_repo/blob/master/misc/recent_event.png)
+
+
 # Ref
 * https://www.linuxbabe.com/linux-server/drupal-8-ubuntu-16-04-nginx-mariadb-php7
 * https://drushcommands.com/drush-8x/config/config-import/
